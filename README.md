@@ -9,7 +9,7 @@ This is my submission for *Day 1* of the [30 Days of Voice Agents](https://www.m
 - Set up a basic *Flask app*.
 - Created a stylish and interactive *landing page* for my voice agent project.
 - Designed the UI using HTML + internal CSS with a Murf-inspired theme.
-- 
+ 
 ##  How to Run
  1-Install Flask:
 pip install flask
